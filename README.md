@@ -1,6 +1,6 @@
 # Introduction
 
-I created this small ecommerce website as a way to practice and gain skills with react and to test out a few new tools. 
+I created this small ecommerce website as a way to practice and gain skills with react and to test out a few new tools. I followed the tutorial located at: https://medium.com/geekculture/how-to-build-an-ecommerce-app-with-react-a040bec4089d
 
 ## New Tools Learned
 - ButterCMS
